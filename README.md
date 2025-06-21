@@ -222,8 +222,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **[Tati Suman Yadav]**
-- GitHub: [sumancoder-cloud]((https://github.com/sumancoder-cloud))
-- LinkedIn: [Tati Suman Yadav]((https://www.linkedin.com/in/tati-suman-yadav-938569351/))
+- GitHub: [sumancoder-cloud]([https://github.com/sumancoder-cloud])
+- LinkedIn: [Tati Suman Yadav]([https://www.linkedin.com/in/tati-suman-yadav-938569351/])
 - Email: suman.tati2005@gmail.com
 
 ## 🙏 Acknowledgments
