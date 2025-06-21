@@ -1,0 +1,39 @@
+{
+  "name": "smart-device-management-system",
+  "version": "1.0.0",
+  "description": "Smart Device Management System with QR Code & GPS Tracking",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "build": "npm run build --prefix client"
+  },
+  "dependencies": {
+    "@zxing/browser": "^0.1.5",
+    "@zxing/library": "^0.21.3",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.5.0",
+    "qrcode": "^1.5.3",
+    "react-app-rewired": "^2.2.1"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0",
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [
+    "mern",
+    "gps",
+    "qr-code",
+    "device-tracking",
+    "react"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
